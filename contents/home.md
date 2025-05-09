@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![HanoFleet](https://img.shields.io/badge/HanoFleet-github-blue?logo=github)](https://github.com/HanoFleet)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Bachelor's Degree in Communication Engineering, at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China.
 
 #### Email
-sli[at]cumt.edu.cn
+hanyahui[at]bupt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Communication Engineering, Beijing University of Posts and Telecommunications, 2022—2026(expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+LLM.
 
